@@ -1,3 +1,3 @@
 FROM ubuntu
-WORKDIR /Lina
+WORKDIR /lina
 COPY /lina
